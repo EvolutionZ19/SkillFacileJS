@@ -12,6 +12,4 @@
 * Modale contact : Créer la modale de contact en utilisant la balise dialogue. Pour cette partie là, vous ne devez pas utiliser de creatElement. Bonus : Mettre en place un message lorsque l'utilisateur
 * Ne pas faire de createElement, utiliser le form déjà existant dans la page web
 
-## Bonus
 
-* Slider : Test d'un slider en JavaScript 
